@@ -1,0 +1,183 @@
+{
+    "pesto": {
+      "ingredients": [
+        {
+          "name": "basil",
+          "quantity": 2,
+          "unit": "cups",
+          "category": "produce",
+          "notes": "fresh"
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "cloves",
+          "category": "produce"
+        },
+        {
+          "name": "Parmesan",
+          "quantity": 0.5,
+          "unit": "cup",
+          "category": "dry",
+          "brand": "Reggiano"
+        },
+        {
+          "name": "Pine Nuts",
+          "quantity": 0.33,
+          "unit": "cup",
+          "category": "dry"
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "quantity": 0.5,
+          "unit": "cup",
+          "category": "wet",
+          "brand": "Organic"
+        }
+      ],
+      "Dessert": false
+    },
+    "banana_bread": {
+      "ingredients": [
+        {
+          "name": "banana",
+          "quantity": 4,
+          "unit": "whole",
+          "category": "produce",
+          "notes": "ripe"
+        },
+        {
+          "name": "flour",
+          "quantity": 2,
+          "unit": "cups",
+          "category": "dry",
+          "brand": "All-Purpose"
+        },
+        {
+          "name": "sugar",
+          "quantity": 1,
+          "unit": "cup",
+          "category": "dry"
+        },
+        {
+          "name": "butter",
+          "quantity": 0.5,
+          "unit": "cup",
+          "category": "wet"
+        },
+        {
+          "name": "eggs",
+          "quantity": 2,
+          "unit": "whole",
+          "category": "produce"
+        }
+      ],
+      "Dessert" : true
+    },
+    "Thai curry":{
+        "ingredients": [
+            {
+                "name": "cauliflower",
+                "quantity": 1,
+                "unit": "head",
+                "category": "produce",
+                "notes": "fresh"
+            },
+            {
+                "name": "carrots",
+                "quantity": 2,
+                "unit": "each",
+                "category": "produce",
+                "notes": "fresh"
+              },
+              {
+                "name": "mushroom",
+                "quantity": 5,
+                "unit": "each",
+                "category": "produce",
+                "notes": "fresh"
+              },
+              {
+                "name": "curry paste",
+                "quantity": 1,
+                "unit": "jar",
+                "category": "dry",
+                "notes": "organic"
+              },
+              {
+                "name": "coconut milk",
+                "quantity": 2,
+                "unit": "cans",
+                "category": "wet"
+              },
+              {
+                "name": "onion",
+                "quantity": 1,
+                "unit": "each",
+                "category": "produce"
+              }
+        ],
+        "Dessert": false
+    },
+    "Roasted Butternut Squash Soup":{
+        "ingredients": [
+            {
+                "name": "butternut squash",
+                "quantity": 3.5,
+                "unit": "pounds",
+                "category": "produce",
+                "notes": "fresh"
+            },
+            {
+                "name": "avacado oil",
+                "quantity": 1,
+                "unit": "tbsp",
+                "category": "wet"
+            },
+            {
+                "name": "onion",
+                "quantity": 1,
+                "unit": "each",
+                "category": "produce",
+                "notes": "fresh"
+            },
+            {
+                "name": "garlic",
+                "quantity": 1,
+                "unit": "clove",
+                "category": "produce",
+                "notes": "fresh"
+            },            {
+                "name": "vegetable broth",
+                "quantity": 3,
+                "unit": "cups",
+                "category": "wet",
+                "notes": "fresh"
+            },
+            {
+                "name": "ground nutmeg",
+                "quantity": "1/4",
+                "unit": "tsp",
+                "category": "spices",
+                "notes": "fresh"
+            },
+            {
+                "name": "ground ginger",
+                "quantity": "1/4",
+                "unit": "tsp",
+                "category": "spices",
+                "notes": "fresh"
+            },
+            {
+                "name": "maple syrup",
+                "quantity": "1/2",
+                "unit": "tbsp",
+                "category": "wet",
+                "notes": "fresh"
+            }
+              
+        ],
+        "Dessert": false
+    }
+  }
+  

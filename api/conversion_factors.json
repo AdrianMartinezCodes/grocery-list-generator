@@ -1,0 +1,36 @@
+{
+  "conversions": {
+    "basil": {
+      "cups_to_bunch": 0.5,
+      "bunch_to_cups": 2
+    },
+    "garlic": {
+      "cloves_to_pounds": 0.4,
+      "pounds_to_cloves": 2.5
+    },
+    "banana": {
+      "whole_to_pounds": 0.25,
+      "pounds_to_whole": 4
+    },
+    "milk": {
+      "cups_to_pints": 0.5,
+      "pints_to_cups": 2
+    },
+    "flour": {
+      "cups_to_grams": 120,
+      "grams_to_cups": 0.00833
+    },
+    "onion":{
+      "each_to_pounds": 0.27125
+    },
+    "butternut squash":{
+      "each_to_pounds": 3.5
+    },
+    "mushroom":{
+      "each_to_pounds": 0.44
+    },
+    "carrots":{
+      "each_to_pounds": 0.15
+    }
+  }
+}
